@@ -1,0 +1,17 @@
+{
+    "name": "pixdad.PanesManager",
+    "title": "PanesManager",
+    "description": "Add two buttons in the status bar to manage the sidebar and the navigator. Hide and Show the panes on the click.",
+    "version": "0.1.0",
+    "keywords": ["panes", "manager", "panel", "hide", "buttons"],
+    "author": {
+        "name": "David Oudart",
+        "email": "david.oudart@gmail.com",
+    },
+    "license": "MIT",
+    "engines": {
+        "staruml": ">=2.0.0"
+    }
+}
+
+//<div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
