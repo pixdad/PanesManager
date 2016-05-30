@@ -2,11 +2,13 @@
     "name": "pixdad.PanesManager",
     "title": "PanesManager",
     "description": "Add two buttons in the status bar to manage the sidebar and the navigator. Hide and Show the panes on the click.",
-    "version": "0.1.0",
-    "keywords": ["panes", "manager", "panel", "hide", "buttons"],
+    "version": "0.9.0",
+    "homepage": "https://github.com/pixdad/PanesManager",
+    "keywords": ["panes", "manager", "panel", "hide", "sidebar", "navigator"],
     "author": {
         "name": "David Oudart",
         "email": "david.oudart@gmail.com",
+        "url": "https://github.com/pixdad"
     },
     "license": "MIT",
     "engines": {
