@@ -4,7 +4,7 @@ This extension for StarUML(http://staruml.io) adds two buttons in the statusbar 
 
 ## How it works
 
-You just have to install the extension, and restart or reload (CMD + R) StarUML 2. You will see two new buttons in the Statusbar.
+You just have to install the extension, and restart or reload (CMD + R) StarUML 2. You will see two new buttons in the right section of the Statusbar.
 
 You should know you can perform the same operation with the `View > Hide Sidebar`and `View > Hide Navigator` menus.
 
