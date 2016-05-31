@@ -1,5 +1,5 @@
 {
-    "name": "pixdad.PanesManager",
+    "name": "pixdad.panes-manager",
     "title": "PanesManager",
     "description": "Add two buttons in the status bar to manage the sidebar and the navigator. Hide and Show the panes on the click.",
     "version": "0.9.0",
