@@ -11,8 +11,8 @@ define(function (require, exports, module) {
 	var leftImgPath = ExtensionUtils.getModulePath(module, "src/left-alignment.png");
 	var rightImgPath = ExtensionUtils.getModulePath(module, "src/right-alignment.png");
 
-	var $closeLeftPannel = $('<div class="close-left item" style="padding:0 1em"><span><img class="k-sprite" src="'+leftImgPath+'" /></span></div>');
-	var $closeRightPannel = $('<div class="close-right item" style="padding:0 1em"><span><img class="k-sprite" src="'+rightImgPath+'" /></span></div>');
+	var $closeLeftPannel = $('<div class="close-left item" title="Toggle Sidebar" style="padding:0 1em"><span><img class="k-sprite" src="'+leftImgPath+'" /></span></div>');
+	var $closeRightPannel = $('<div class="close-right item" title="Toggle Navigator" style="padding:0 1em"><span><img class="k-sprite" src="'+rightImgPath+'" /></span></div>');
 
 	$right.append($closeLeftPannel);
 	$right.append($closeRightPannel);
