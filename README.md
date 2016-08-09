@@ -8,5 +8,7 @@ You just have to install the extension, and restart or reload (CMD + R) StarUML 
 
 ![PanesManager](https://github.com/pixdad/PanesManager/blob/master/capture/screenshot.png?raw=true)
 
+![PanesManager](https://github.com/pixdad/PanesManager/blob/master/capture/screenshot2.png?raw=true)
+
 You should know you can perform the same operation with the `View > Hide Sidebar`and `View > Hide Navigator` menus.
 
